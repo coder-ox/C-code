@@ -1,3 +1,6 @@
 /Users/codertoro/Documents/CLion/C-code/cmake-build-debug/CMakeFiles/C_code.dir
+/Users/codertoro/Documents/CLion/C-code/cmake-build-debug/CMakeFiles/PalindromeNumber.dir
+/Users/codertoro/Documents/CLion/C-code/cmake-build-debug/CMakeFiles/ThereNumsAdd.dir
+/Users/codertoro/Documents/CLion/C-code/cmake-build-debug/CMakeFiles/year.dir
 /Users/codertoro/Documents/CLion/C-code/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/codertoro/Documents/CLion/C-code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
