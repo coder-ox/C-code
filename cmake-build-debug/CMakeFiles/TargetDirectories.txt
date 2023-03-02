@@ -2,5 +2,16 @@
 /Users/codertoro/Documents/CLion/C-code/cmake-build-debug/CMakeFiles/PalindromeNumber.dir
 /Users/codertoro/Documents/CLion/C-code/cmake-build-debug/CMakeFiles/ThereNumsAdd.dir
 /Users/codertoro/Documents/CLion/C-code/cmake-build-debug/CMakeFiles/year.dir
+/Users/codertoro/Documents/CLion/C-code/cmake-build-debug/CMakeFiles/snake.dir
+/Users/codertoro/Documents/CLion/C-code/cmake-build-debug/CMakeFiles/add1-100.dir
+/Users/codertoro/Documents/CLion/C-code/cmake-build-debug/CMakeFiles/break.dir
+/Users/codertoro/Documents/CLion/C-code/cmake-build-debug/CMakeFiles/factorial.dir
+/Users/codertoro/Documents/CLion/C-code/cmake-build-debug/CMakeFiles/Change_paper_money.dir
+/Users/codertoro/Documents/CLion/C-code/cmake-build-debug/CMakeFiles/Symmetric-number.dir
+/Users/codertoro/Documents/CLion/C-code/cmake-build-debug/CMakeFiles/Count_the_number_of_No2.dir
+/Users/codertoro/Documents/CLion/C-code/cmake-build-debug/CMakeFiles/test.dir
+/Users/codertoro/Documents/CLion/C-code/cmake-build-debug/CMakeFiles/1.dir
+/Users/codertoro/Documents/CLion/C-code/cmake-build-debug/CMakeFiles/6-1-subfunction.dir
+/Users/codertoro/Documents/CLion/C-code/cmake-build-debug/CMakeFiles/6-2-buffer.dir
 /Users/codertoro/Documents/CLion/C-code/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/codertoro/Documents/CLion/C-code/cmake-build-debug/CMakeFiles/rebuild_cache.dir

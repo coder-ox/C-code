@@ -52,6 +52,72 @@ build CMakeFiles/C_code.dir/main.c.o: C_COMPILER__C_code_Debug /Users/codertoro/
   OBJECT_DIR = CMakeFiles/C_code.dir
   OBJECT_FILE_DIR = CMakeFiles/C_code.dir
 
+build CMakeFiles/C_code.dir/snake.c.o: C_COMPILER__C_code_Debug /Users/codertoro/Documents/CLion/C-code/snake.c || cmake_object_order_depends_target_C_code
+  DEP_FILE = CMakeFiles/C_code.dir/snake.c.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -std=gnu99
+  OBJECT_DIR = CMakeFiles/C_code.dir
+  OBJECT_FILE_DIR = CMakeFiles/C_code.dir
+
+build CMakeFiles/C_code.dir/add1-100.c.o: C_COMPILER__C_code_Debug /Users/codertoro/Documents/CLion/C-code/add1-100.c || cmake_object_order_depends_target_C_code
+  DEP_FILE = CMakeFiles/C_code.dir/add1-100.c.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -std=gnu99
+  OBJECT_DIR = CMakeFiles/C_code.dir
+  OBJECT_FILE_DIR = CMakeFiles/C_code.dir
+
+build CMakeFiles/C_code.dir/test.c.o: C_COMPILER__C_code_Debug /Users/codertoro/Documents/CLion/C-code/test.c || cmake_object_order_depends_target_C_code
+  DEP_FILE = CMakeFiles/C_code.dir/test.c.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -std=gnu99
+  OBJECT_DIR = CMakeFiles/C_code.dir
+  OBJECT_FILE_DIR = CMakeFiles/C_code.dir
+
+build CMakeFiles/C_code.dir/break.c.o: C_COMPILER__C_code_Debug /Users/codertoro/Documents/CLion/C-code/break.c || cmake_object_order_depends_target_C_code
+  DEP_FILE = CMakeFiles/C_code.dir/break.c.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -std=gnu99
+  OBJECT_DIR = CMakeFiles/C_code.dir
+  OBJECT_FILE_DIR = CMakeFiles/C_code.dir
+
+build CMakeFiles/C_code.dir/Symmetric-number.c.o: C_COMPILER__C_code_Debug /Users/codertoro/Documents/CLion/C-code/Symmetric-number.c || cmake_object_order_depends_target_C_code
+  DEP_FILE = CMakeFiles/C_code.dir/Symmetric-number.c.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -std=gnu99
+  OBJECT_DIR = CMakeFiles/C_code.dir
+  OBJECT_FILE_DIR = CMakeFiles/C_code.dir
+
+build CMakeFiles/C_code.dir/factorial.c.o: C_COMPILER__C_code_Debug /Users/codertoro/Documents/CLion/C-code/factorial.c || cmake_object_order_depends_target_C_code
+  DEP_FILE = CMakeFiles/C_code.dir/factorial.c.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -std=gnu99
+  OBJECT_DIR = CMakeFiles/C_code.dir
+  OBJECT_FILE_DIR = CMakeFiles/C_code.dir
+
+build CMakeFiles/C_code.dir/Change_paper_money.c.o: C_COMPILER__C_code_Debug /Users/codertoro/Documents/CLion/C-code/Change_paper_money.c || cmake_object_order_depends_target_C_code
+  DEP_FILE = CMakeFiles/C_code.dir/Change_paper_money.c.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -std=gnu99
+  OBJECT_DIR = CMakeFiles/C_code.dir
+  OBJECT_FILE_DIR = CMakeFiles/C_code.dir
+
+build CMakeFiles/C_code.dir/Count_the_number_of_No2.c.o: C_COMPILER__C_code_Debug /Users/codertoro/Documents/CLion/C-code/Count_the_number_of_No2.c || cmake_object_order_depends_target_C_code
+  DEP_FILE = CMakeFiles/C_code.dir/Count_the_number_of_No2.c.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -std=gnu99
+  OBJECT_DIR = CMakeFiles/C_code.dir
+  OBJECT_FILE_DIR = CMakeFiles/C_code.dir
+
+build CMakeFiles/C_code.dir/1.c.o: C_COMPILER__C_code_Debug /Users/codertoro/Documents/CLion/C-code/1.c || cmake_object_order_depends_target_C_code
+  DEP_FILE = CMakeFiles/C_code.dir/1.c.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -std=gnu99
+  OBJECT_DIR = CMakeFiles/C_code.dir
+  OBJECT_FILE_DIR = CMakeFiles/C_code.dir
+
+build CMakeFiles/C_code.dir/6-1-subfunction.c.o: C_COMPILER__C_code_Debug /Users/codertoro/Documents/CLion/C-code/6-1-subfunction.c || cmake_object_order_depends_target_C_code
+  DEP_FILE = CMakeFiles/C_code.dir/6-1-subfunction.c.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -std=gnu99
+  OBJECT_DIR = CMakeFiles/C_code.dir
+  OBJECT_FILE_DIR = CMakeFiles/C_code.dir
+
+build CMakeFiles/C_code.dir/6-2-buffer.c.o: C_COMPILER__C_code_Debug /Users/codertoro/Documents/CLion/C-code/6-2-buffer.c || cmake_object_order_depends_target_C_code
+  DEP_FILE = CMakeFiles/C_code.dir/6-2-buffer.c.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -std=gnu99
+  OBJECT_DIR = CMakeFiles/C_code.dir
+  OBJECT_FILE_DIR = CMakeFiles/C_code.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target C_code
@@ -60,7 +126,7 @@ build CMakeFiles/C_code.dir/main.c.o: C_COMPILER__C_code_Debug /Users/codertoro/
 #############################################
 # Link the executable C_code
 
-build C_code: C_EXECUTABLE_LINKER__C_code_Debug CMakeFiles/C_code.dir/main.c.o
+build C_code: C_EXECUTABLE_LINKER__C_code_Debug CMakeFiles/C_code.dir/main.c.o CMakeFiles/C_code.dir/snake.c.o CMakeFiles/C_code.dir/add1-100.c.o CMakeFiles/C_code.dir/test.c.o CMakeFiles/C_code.dir/break.c.o CMakeFiles/C_code.dir/Symmetric-number.c.o CMakeFiles/C_code.dir/factorial.c.o CMakeFiles/C_code.dir/Change_paper_money.c.o CMakeFiles/C_code.dir/Count_the_number_of_No2.c.o CMakeFiles/C_code.dir/1.c.o CMakeFiles/C_code.dir/6-1-subfunction.c.o CMakeFiles/C_code.dir/6-2-buffer.c.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk
   OBJECT_DIR = CMakeFiles/C_code.dir
   POST_BUILD = :
@@ -161,6 +227,347 @@ build year: C_EXECUTABLE_LINKER__year_Debug CMakeFiles/year.dir/year.c.o
   TARGET_FILE = year
   TARGET_PDB = year.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target snake
+
+
+#############################################
+# Order-only phony target for snake
+
+build cmake_object_order_depends_target_snake: phony || CMakeFiles/snake.dir
+
+build CMakeFiles/snake.dir/snake.c.o: C_COMPILER__snake_Debug /Users/codertoro/Documents/CLion/C-code/snake.c || cmake_object_order_depends_target_snake
+  DEP_FILE = CMakeFiles/snake.dir/snake.c.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -std=gnu99
+  OBJECT_DIR = CMakeFiles/snake.dir
+  OBJECT_FILE_DIR = CMakeFiles/snake.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target snake
+
+
+#############################################
+# Link the executable snake
+
+build snake: C_EXECUTABLE_LINKER__snake_Debug CMakeFiles/snake.dir/snake.c.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk
+  OBJECT_DIR = CMakeFiles/snake.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = snake
+  TARGET_PDB = snake.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target add1-100
+
+
+#############################################
+# Order-only phony target for add1-100
+
+build cmake_object_order_depends_target_add1-100: phony || CMakeFiles/add1-100.dir
+
+build CMakeFiles/add1-100.dir/add1-100.c.o: C_COMPILER__add1-100_Debug /Users/codertoro/Documents/CLion/C-code/add1-100.c || cmake_object_order_depends_target_add1-100
+  DEP_FILE = CMakeFiles/add1-100.dir/add1-100.c.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -std=gnu99
+  OBJECT_DIR = CMakeFiles/add1-100.dir
+  OBJECT_FILE_DIR = CMakeFiles/add1-100.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target add1-100
+
+
+#############################################
+# Link the executable add1-100
+
+build add1-100: C_EXECUTABLE_LINKER__add1-100_Debug CMakeFiles/add1-100.dir/add1-100.c.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk
+  OBJECT_DIR = CMakeFiles/add1-100.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = add1-100
+  TARGET_PDB = add1-100.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target break
+
+
+#############################################
+# Order-only phony target for break
+
+build cmake_object_order_depends_target_break: phony || CMakeFiles/break.dir
+
+build CMakeFiles/break.dir/break.c.o: C_COMPILER__break_Debug /Users/codertoro/Documents/CLion/C-code/break.c || cmake_object_order_depends_target_break
+  DEP_FILE = CMakeFiles/break.dir/break.c.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -std=gnu99
+  OBJECT_DIR = CMakeFiles/break.dir
+  OBJECT_FILE_DIR = CMakeFiles/break.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target break
+
+
+#############################################
+# Link the executable break
+
+build break: C_EXECUTABLE_LINKER__break_Debug CMakeFiles/break.dir/break.c.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk
+  OBJECT_DIR = CMakeFiles/break.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = break
+  TARGET_PDB = break.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target factorial
+
+
+#############################################
+# Order-only phony target for factorial
+
+build cmake_object_order_depends_target_factorial: phony || CMakeFiles/factorial.dir
+
+build CMakeFiles/factorial.dir/factorial.c.o: C_COMPILER__factorial_Debug /Users/codertoro/Documents/CLion/C-code/factorial.c || cmake_object_order_depends_target_factorial
+  DEP_FILE = CMakeFiles/factorial.dir/factorial.c.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -std=gnu99
+  OBJECT_DIR = CMakeFiles/factorial.dir
+  OBJECT_FILE_DIR = CMakeFiles/factorial.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target factorial
+
+
+#############################################
+# Link the executable factorial
+
+build factorial: C_EXECUTABLE_LINKER__factorial_Debug CMakeFiles/factorial.dir/factorial.c.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk
+  OBJECT_DIR = CMakeFiles/factorial.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = factorial
+  TARGET_PDB = factorial.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Change_paper_money
+
+
+#############################################
+# Order-only phony target for Change_paper_money
+
+build cmake_object_order_depends_target_Change_paper_money: phony || CMakeFiles/Change_paper_money.dir
+
+build CMakeFiles/Change_paper_money.dir/Change_paper_money.c.o: C_COMPILER__Change_paper_money_Debug /Users/codertoro/Documents/CLion/C-code/Change_paper_money.c || cmake_object_order_depends_target_Change_paper_money
+  DEP_FILE = CMakeFiles/Change_paper_money.dir/Change_paper_money.c.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -std=gnu99
+  OBJECT_DIR = CMakeFiles/Change_paper_money.dir
+  OBJECT_FILE_DIR = CMakeFiles/Change_paper_money.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Change_paper_money
+
+
+#############################################
+# Link the executable Change_paper_money
+
+build Change_paper_money: C_EXECUTABLE_LINKER__Change_paper_money_Debug CMakeFiles/Change_paper_money.dir/Change_paper_money.c.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk
+  OBJECT_DIR = CMakeFiles/Change_paper_money.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Change_paper_money
+  TARGET_PDB = Change_paper_money.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Symmetric-number
+
+
+#############################################
+# Order-only phony target for Symmetric-number
+
+build cmake_object_order_depends_target_Symmetric-number: phony || CMakeFiles/Symmetric-number.dir
+
+build CMakeFiles/Symmetric-number.dir/Symmetric-number.c.o: C_COMPILER__Symmetric-number_Debug /Users/codertoro/Documents/CLion/C-code/Symmetric-number.c || cmake_object_order_depends_target_Symmetric-number
+  DEP_FILE = CMakeFiles/Symmetric-number.dir/Symmetric-number.c.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -std=gnu99
+  OBJECT_DIR = CMakeFiles/Symmetric-number.dir
+  OBJECT_FILE_DIR = CMakeFiles/Symmetric-number.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Symmetric-number
+
+
+#############################################
+# Link the executable Symmetric-number
+
+build Symmetric-number: C_EXECUTABLE_LINKER__Symmetric-number_Debug CMakeFiles/Symmetric-number.dir/Symmetric-number.c.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk
+  OBJECT_DIR = CMakeFiles/Symmetric-number.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Symmetric-number
+  TARGET_PDB = Symmetric-number.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Count_the_number_of_No2
+
+
+#############################################
+# Order-only phony target for Count_the_number_of_No2
+
+build cmake_object_order_depends_target_Count_the_number_of_No2: phony || CMakeFiles/Count_the_number_of_No2.dir
+
+build CMakeFiles/Count_the_number_of_No2.dir/Count_the_number_of_No2.c.o: C_COMPILER__Count_the_number_of_No2_Debug /Users/codertoro/Documents/CLion/C-code/Count_the_number_of_No2.c || cmake_object_order_depends_target_Count_the_number_of_No2
+  DEP_FILE = CMakeFiles/Count_the_number_of_No2.dir/Count_the_number_of_No2.c.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -std=gnu99
+  OBJECT_DIR = CMakeFiles/Count_the_number_of_No2.dir
+  OBJECT_FILE_DIR = CMakeFiles/Count_the_number_of_No2.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Count_the_number_of_No2
+
+
+#############################################
+# Link the executable Count_the_number_of_No2
+
+build Count_the_number_of_No2: C_EXECUTABLE_LINKER__Count_the_number_of_No2_Debug CMakeFiles/Count_the_number_of_No2.dir/Count_the_number_of_No2.c.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk
+  OBJECT_DIR = CMakeFiles/Count_the_number_of_No2.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Count_the_number_of_No2
+  TARGET_PDB = Count_the_number_of_No2.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target test
+
+
+#############################################
+# Order-only phony target for test
+
+build cmake_object_order_depends_target_test: phony || CMakeFiles/test.dir
+
+build CMakeFiles/test.dir/test.c.o: C_COMPILER__test_Debug /Users/codertoro/Documents/CLion/C-code/test.c || cmake_object_order_depends_target_test
+  DEP_FILE = CMakeFiles/test.dir/test.c.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -std=gnu99
+  OBJECT_DIR = CMakeFiles/test.dir
+  OBJECT_FILE_DIR = CMakeFiles/test.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target test
+
+
+#############################################
+# Link the executable test
+
+build test: C_EXECUTABLE_LINKER__test_Debug CMakeFiles/test.dir/test.c.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk
+  OBJECT_DIR = CMakeFiles/test.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = test
+  TARGET_PDB = test.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 1
+
+
+#############################################
+# Order-only phony target for 1
+
+build cmake_object_order_depends_target_1: phony || CMakeFiles/1.dir
+
+build CMakeFiles/1.dir/1.c.o: C_COMPILER__1_Debug /Users/codertoro/Documents/CLion/C-code/1.c || cmake_object_order_depends_target_1
+  DEP_FILE = CMakeFiles/1.dir/1.c.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -std=gnu99
+  OBJECT_DIR = CMakeFiles/1.dir
+  OBJECT_FILE_DIR = CMakeFiles/1.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 1
+
+
+#############################################
+# Link the executable 1
+
+build 1: C_EXECUTABLE_LINKER__1_Debug CMakeFiles/1.dir/1.c.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk
+  OBJECT_DIR = CMakeFiles/1.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 1
+  TARGET_PDB = 1.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 6-1-subfunction
+
+
+#############################################
+# Order-only phony target for 6-1-subfunction
+
+build cmake_object_order_depends_target_6-1-subfunction: phony || CMakeFiles/6-1-subfunction.dir
+
+build CMakeFiles/6-1-subfunction.dir/6-1-subfunction.c.o: C_COMPILER__6-1-subfunction_Debug /Users/codertoro/Documents/CLion/C-code/6-1-subfunction.c || cmake_object_order_depends_target_6-1-subfunction
+  DEP_FILE = CMakeFiles/6-1-subfunction.dir/6-1-subfunction.c.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -std=gnu99
+  OBJECT_DIR = CMakeFiles/6-1-subfunction.dir
+  OBJECT_FILE_DIR = CMakeFiles/6-1-subfunction.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 6-1-subfunction
+
+
+#############################################
+# Link the executable 6-1-subfunction
+
+build 6-1-subfunction: C_EXECUTABLE_LINKER__6-1-subfunction_Debug CMakeFiles/6-1-subfunction.dir/6-1-subfunction.c.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk
+  OBJECT_DIR = CMakeFiles/6-1-subfunction.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 6-1-subfunction
+  TARGET_PDB = 6-1-subfunction.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 6-2-buffer
+
+
+#############################################
+# Order-only phony target for 6-2-buffer
+
+build cmake_object_order_depends_target_6-2-buffer: phony || CMakeFiles/6-2-buffer.dir
+
+build CMakeFiles/6-2-buffer.dir/6-2-buffer.c.o: C_COMPILER__6-2-buffer_Debug /Users/codertoro/Documents/CLion/C-code/6-2-buffer.c || cmake_object_order_depends_target_6-2-buffer
+  DEP_FILE = CMakeFiles/6-2-buffer.dir/6-2-buffer.c.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -std=gnu99
+  OBJECT_DIR = CMakeFiles/6-2-buffer.dir
+  OBJECT_FILE_DIR = CMakeFiles/6-2-buffer.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 6-2-buffer
+
+
+#############################################
+# Link the executable 6-2-buffer
+
+build 6-2-buffer: C_EXECUTABLE_LINKER__6-2-buffer_Debug CMakeFiles/6-2-buffer.dir/6-2-buffer.c.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk
+  OBJECT_DIR = CMakeFiles/6-2-buffer.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 6-2-buffer
+  TARGET_PDB = 6-2-buffer.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -195,7 +602,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/codertoro/Documents/CLion/C-code/cmake-build-debug
 
-build all: phony C_code PalindromeNumber ThereNumsAdd year
+build all: phony C_code PalindromeNumber ThereNumsAdd year snake add1-100 break factorial Change_paper_money Symmetric-number Count_the_number_of_No2 test 1 6-1-subfunction 6-2-buffer
 
 # =============================================================================
 # Built-in targets
