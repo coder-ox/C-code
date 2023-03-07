@@ -1,4 +1,5 @@
 /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/codertoro/Documents/CLion/C-code -B /Users/codertoro/Documents/CLion/C-code/cmake-build-debug
 -- Configuring done
+CMake Error: CMake can not determine linker language for target: 8-1-struct
 -- Generating done
--- Build files have been written to: /Users/codertoro/Documents/CLion/C-code/cmake-build-debug
+CMake Generate step failed.  Build files cannot be regenerated correctly.

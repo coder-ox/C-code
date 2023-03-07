@@ -13,5 +13,7 @@
 /Users/codertoro/Documents/CLion/C-code/cmake-build-debug/CMakeFiles/1.dir
 /Users/codertoro/Documents/CLion/C-code/cmake-build-debug/CMakeFiles/6-1-subfunction.dir
 /Users/codertoro/Documents/CLion/C-code/cmake-build-debug/CMakeFiles/6-2-buffer.dir
+/Users/codertoro/Documents/CLion/C-code/cmake-build-debug/CMakeFiles/7-1-step.dir
+/Users/codertoro/Documents/CLion/C-code/cmake-build-debug/CMakeFiles/8-1-struct.dir
 /Users/codertoro/Documents/CLion/C-code/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/codertoro/Documents/CLion/C-code/cmake-build-debug/CMakeFiles/rebuild_cache.dir

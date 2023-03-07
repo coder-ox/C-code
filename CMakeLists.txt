@@ -3,7 +3,7 @@ project(C_code C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(C_code main.c snake.c add1-100.c test.c break.c 4-1-Symmetric-number.c 4-2-factorial.c "4-3-Change_paper_money.c" "5-1-Count_the_number_of_No2.c" 5-2-strcmp.c 6-1-subfunction.c 6-2-buffer.c)
+add_executable(C_code main.c snake.c add1-100.c test.c break.c 4-1-Symmetric-number.c 4-2-factorial.c "4-3-Change_paper_money.c" "5-1-Count_the_number_of_No2.c" 5-2-strcmp.c 6-1-subfunction.c 6-2-buffer.c 7-1-step.c 8-1-struct.cpp)
 
 add_executable(PalindromeNumber 4-1-PalindromeNumber.c)
 add_executable(ThereNumsAdd 3-2-ThereNumsAdd.c)
@@ -19,3 +19,5 @@ add_executable(test test.c)
 add_executable(1 5-2-strcmp.c)
 add_executable(6-1-subfunction 6-1-subfunction.c)
 add_executable(6-2-buffer 6-2-buffer.c)
+add_executable(7-1-step 7-1-step.c)
+add_executable(8-1-struct 8-1-struct.cpp)
